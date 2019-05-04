@@ -11,7 +11,7 @@ Shorten a url with bit.ly in Alfred.
 ## Usage
 1. Input `bitly` in alfred, paste or type a url.
 2. Select a url and press <kbd>alt</kbd>+<kbd>s</kbd>.
+3. For futher usage, check [v3 documentation](https://dev.bitly.com/links.html#v3_shorten).
 
 ## Known Issue
-- This workflow uses API V3 which will be deactivated on March 1, 2020. I'll update it soon. You can watch this repo for releases only.
-- It gets `http` rather than `https`.
+This workflow uses API V3 which will be deactivated on March 1, 2020. You can watch this repo for later updates.
