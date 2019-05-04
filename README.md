@@ -1,12 +1,16 @@
-# alfred-bitly-shortener
-Alfred App Workflow to shorten bit.ly links easily
+# Alfred Bitly Shortener
+Shorten a url with bit.ly in Alfred.
 
-![screen shot](http://techcraver.com/wp-content/uploads/2015/10/Alfred-bitly-workflow.png)
+## Before using
+1. Get bitly [GENERIC ACCESS TOKEN](https://bitly.com/a/sign_in?rd=%2Fa%2Foauth_apps) (recommend using email + password when signing up, becasue you will be required to input the password).
+2. Download and install [Bitly.alfredworkflow](http://bit.ly/2Wml1a5).
+3. Double click the script which contains `/bin/bash`.
+4. Replace `PASTE_HERE` with your access token.
+5. Save it.
 
-To add this into your Alfred App set up for your Mac (this assumes you already have Alfred installed and running):
+## Usage
+1. Input `bitly` in alfred, paste or type a url.
+2. Select a url and press <kbd>alt</kbd>+<kbd>s</kbd>.
 
-* Follow the prompts to install the Workflow
-* Edit the Run Script
-* Paste in your Bit.ly API key and login from your Bit.ly profile page ([more info on finding your API key](http://support.bitly.com/customer/portal/articles/1765835?b_id=5611)
-
-You’re welcome!
+## Notice
+This workflow uses API V3 which will be deactivated on March 1, 2020. I'll update it soon. You can watch this repo for release only.
