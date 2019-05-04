@@ -13,4 +13,4 @@ Shorten a url with bit.ly in Alfred.
 2. Select a url and press <kbd>alt</kbd>+<kbd>s</kbd>.
 
 ## Notice
-This workflow uses API V3 which will be deactivated on March 1, 2020. I'll update it soon. You can watch this repo for release only.
+This workflow uses API V3 which will be deactivated on March 1, 2020. I'll update it soon. You can watch this repo for releases only.
